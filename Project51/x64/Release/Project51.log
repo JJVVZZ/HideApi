@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Users\maxim\source\repos\Project51\Source.cpp(103,79): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 78 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Project51.vcxproj -> C:\Users\maxim\source\repos\Project51\x64\Release\Project51.exe
