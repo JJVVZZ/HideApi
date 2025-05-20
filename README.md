@@ -1,0 +1,2 @@
+# HideApi
+Hides your windows
